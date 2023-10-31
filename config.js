@@ -20,7 +20,7 @@ import { watchFile, unwatchFile } from 'fs'
  global.suittag = ['51907183648'] 
  global.mods = [] 
  global.prems = []
-global.packname = '× Stickers V2\nEzequiel/TurboBot-MD\n\n× Script:\ngithub.com/Jxtxn17/TurboBot-MD'
+global.packname = '× Stickers V2\nEzequiel/TurboBot-MD\n\n× Script:\nhttps://instagram.com/crlx.emxn'
 global.author = ' T\n U\n R\n  B\n O\n '
 global.wm = '𓆩𝐓𝐮𝐫𝐛𝐨𝐁𝐨𝐭-𝐌𝐃𓆪'
 global.wm2 = '✦𝗧𝘂𝗿𝗯𝗼-𝗯𝗼𝘁-𝗠𝗗✦'
