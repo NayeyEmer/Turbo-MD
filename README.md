@@ -8,10 +8,7 @@
 ## **Warning**
 > Se estan actualizando todos los archivos, muy pronto se subieran los nuevos archivos
 
-<a href="https://www.youtube.com/@Azami_19">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-<a href="https://instagram.com/azami.19">
+<a href="https://instagram.com/crlx.emxn">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
@@ -32,21 +29,21 @@
 | Más funciones en adelante|⚡|
 
 ### `⚙️ AJUSTES ⚙️`
-- CAMBIAR NÚMERO DE PROPIETARIO [aqui](https://github.com/Jxtxn17/TurboBot-MD/blob/main/config.js)
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/Undefined17/CuriosityBot-MD/fork)
-- Puede cambiar a la última versión de baileys editando el package.json [aqui](https://github.com/Undefined17/CuriosityBot-MD/blob/main/package.json#L42)
+- CAMBIAR NÚMERO DE PROPIETARIO [aqui](https://instagram.com/crlx.emxn/blob/main/config.js)
+- CLONAR EL REPOSITORIO [Aqui](https://instagram.com/crlx.emxn/fork)
+- Puede cambiar a la última versión de baileys editando el package.json [aqui](https://instagram.com/crlx.emxn/blob/main/package.json#L42)
 
 ### Ejemplo 
 En caso de duda, antes de instalar TurboBot-MD, pruebe el bot aquí
 
-[![Grupos](https://img.shields.io/badge/TurboBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/F5gQwucOrx9DxOTOtur0TO) 
+[![Grupos](https://img.shields.io/badge/TurboBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FGlXuc4B13G96PYdogNQDH) 
 
 ***
 
 #### `ACTIVA EN HEROKU`
 para usuarios del heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Azami19/CuriosityBot-MD1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Emer2005/TurboBot-MD1)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
@@ -88,7 +85,7 @@ npm start
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://github.com/Jxtxn17/TurboBot-MD/master/turbo.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://github.com/Emer2006/TurboBot-MD/master/turbo.sh | bash
 ```
 
 ### `OBTENER OTRO CODIGO QR`
@@ -102,20 +99,12 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
  ### `DUDAS SOBRE EL BOT?, CONTACTAME`
 
-<a href="https://wa.me/51929972576"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/51967647592"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### EDITOR & PROPIETARIO DEL BOT
-<a href="https://github.com/Jxtxn17 "><img src="https://github.com/Jxtxn17.png" width="250" height="250" alt="Jxtxn17"/></a>
+<a href="https://github.com/NayeyEmer "><img src="https://github.com/NayeyEmer.png" width="250" height="250" alt="Ezequiel"/></a>
 
 #### COLABORADORES 
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
+Se busca 
  
-  <td align="center"><a 
-  href="https://github.com/HACHEJOTA"><img src="https://github.com/HACHEJOTA.png?size=100" width="100px;" alt=""/><br /><sub><b>HACHEJOTA</b></sub></a><br /><sub><i>Desarollador Oficial</i></sub></td>
-   <td align="center"><a 
-  href="https://github.com/Aleixon127271"><img src="https://github.com/Aleixon127271.png?size=100" width="100px;" alt=""/><br /><sub><b>Aleixon</b></sub></a><br /><sub><i>Desarollador Oficial</i></sub></td>
-    <td align="center"><a href="https://github.com/Ender-GB-Isis777"><img src="https://github.com/Ender-GB-Isis777.png?size=100" width="100px;" alt=""/><br /><sub><b>Ender GB</b></sub></a><br /><sub><i>Desarrollador Oficial</i>
-    <td align="center"><a 
+  
