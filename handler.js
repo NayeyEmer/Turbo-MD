@@ -171,7 +171,7 @@ if (!('autoread' in settings)) settings.autoread = false
 if (!('autoread2' in settings)) settings.autoread2 = false
 if (!('restrict' in settings)) settings.restrict = false
 if (!('antiCall' in settings)) settings.antiCall = false
-if (!('antiPrivate' in settings)) settings.antiPrivate = false
+if (!('antiPrivate' in settings)) settings.antiPrivate = true
 if (!('modejadibot' in settings)) settings.modejadibot = true  
 if (!('status' in settings)) settings.status = 0
 } else global.db.data.settings[this.user.jid] = {
@@ -180,7 +180,7 @@ autoread: false,
 autoread2: false,
 restrict: false, 
 antiCall: false,
-antiPrivate: false,
+antiPrivate: true,
 modejadibot: true,
 status: 0
 }
@@ -577,7 +577,7 @@ group: '⚠️ *LA FUNCIÓN SOLO PUEDE SER EJECUTADA EN GRUPOS*',
 private: '⚠️ *ESTA FUNCION SOLO PUEDE SER USADA EN EL CHAT PRIVADO*',
 admin: '⚠️️ *ESTE COMANDO SOLO PUEDE SER USADO POR ADMINS*',
 botAdmin: '⚠️️ *PARA USAR ESTA FUNCIÓN DEBO SER ADMIN*',
-unreg: '⚠️ *REGÍSTRESE PARA USAR ESTA FUNCIÓN ESCRIBIENDO:*\n\n• */reg nombre.edad*\n\n*_❕ Ejemplo_* : */reg Ax.25*',
+unreg: '⚠️ *REGÍSTRESE PARA USAR ESTA FUNCIÓN ESCRIBIENDO:*\n\n• */reg nombre.edad*\n\n*_❕ Ejemplo_* : */reg eze.25*',
 restrict: '⚠️ *ESTA CARACTERÍSTICA ESTA DESACTIVADA*'
 }[type]
 if (msg) return conn.reply(m.chat, msg, m, { contextInfo:{ forwardingScore: 2022, isForwarded: true, externalAdReply: {title: '👋 Hola!!', body: saludo, sourceUrl: global.paypal, thumbnail: imagen1 }}})
