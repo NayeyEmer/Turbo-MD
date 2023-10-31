@@ -12,19 +12,19 @@ import { watchFile, unwatchFile } from 'fs'
  const __dirname = global.__dirname(import.meta.url) 
   
  global.owner =
-[['51929972576', '🍇𝙹𝚡𝚝𝚡𝚗 𝚃𝙱🍇', true],
-['584129799955', '🤙รձռร г4🤙, true],
-['50558124470', '💖𝙴𝙽𝙳𝙴𝚁 𝙻𝙱💖', true]],
+[['51907183648', '🍇creador🍇', true],
+['51967647592', '🤙creadora2🤙, true],
+['51907183648', '💖Ezequiel💖', true]],
 
- global.animxscans = ['51929972576'] 
- global.suittag = ['51929972576'] 
+ global.animxscans = ['51907183648'] 
+ global.suittag = ['51907183648'] 
  global.mods = [] 
  global.prems = []
-global.packname = '× Stickers V2\ngithub.com/TurboBot-MD\n\n× Script:\ngithub.com/Jxtxn17/TurboBot-MD'
+global.packname = '× Stickers V2\nEzequiel/TurboBot-MD\n\n× Script:\ngithub.com/Jxtxn17/TurboBot-MD'
 global.author = ' T\n U\n R\n  B\n O\n '
 global.wm = '𓆩𝐓𝐮𝐫𝐛𝐨𝐁𝐨𝐭-𝐌𝐃𓆪'
 global.wm2 = '✦𝗧𝘂𝗿𝗯𝗼-𝗯𝗼𝘁-𝗠𝗗✦'
-global.jxtxn = 'Jxtxn'
+global.jxtxn = 'ezequiel'
 global.cb = '⏤͟͟͞͞ＴｕｒｂｏＢｏｔ-ＭＤ'
 
 global.vs = '1.0.2'
@@ -32,7 +32,7 @@ global.library = 'Baileys'
 global.baileys = '@whiskeysockets/baileys'
 global.lenguaje = 'Español'
 global.menudi = ['⛶','❏','⫹⫺']
-global.dev = '51929972576'
+global.dev = '51907183648'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => { unwatchFile(file)
