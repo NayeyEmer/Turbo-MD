@@ -40,11 +40,11 @@ global.img7 = 'https://telegra.ph/file/951275803faa754aff010.jpg'
 global.sityImg = [img, img1, img2, img3, img4, img5, img6, img7]
 
 //Enlaces
-global.yt = 'https://www.youtube.com/@Azami_Mods'
-global.ig = 'https://instagram.com/azami_ofc'
-global.md = 'https://github.com/AzamiJs/CuriosityBot-MD'
-global.paypal = 'https://paypal.me/Azami19'
-global.git = 'https://github.com/GataNina-Li'
+global.yt = 'https://instagram.com/crlx.emxn'
+global.ig = 'https://instagram.com/crlx.emxn'
+global.md = 'https://github.com/Emer2006/Hola'
+global.paypal = 'https://instagram.com/crlx.emxn'
+global.git = 'https://github.com/Emer2006'
 global.nn = 'https://chat.whatsapp.com/LCAUbkf5kUz7jSxO6FADMU' //Grupo ofc
 global.nnn = 'https://chat.whatsapp.com/J1R402WH1N0Hdl3S0NDEYu' //Curiosity global
 global.nnnn = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //colaboración multi bots
