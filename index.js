@@ -20,14 +20,14 @@ console.log('🚀 Iniciando...')
  align: 'center', 
  colors: ['magenta', 'cyan'] 
  }) 
- say(`${name} By @Jxtxn`, { 
+ say(`${name} By @crlx.emxn`, { 
  font: 'console', 
  align: 'center', 
  colors: ['blueBright'] 
  }) 
  console.log(`  
 Turbo Bot V2 
-  Author: Jxtxn 
+  Author: ezequiel 
   WA    : +994  
   Base  : BochilTeam 
   `) 
